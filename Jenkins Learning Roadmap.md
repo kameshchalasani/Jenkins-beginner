@@ -111,4 +111,4 @@ If you want to **learn Jenkins from scratch**, here's a structured learning path
 🔹 Learn **Docker, Kubernetes, Ansible for deployment**  
 🔹 Implement **real-world CI/CD workflows**  
 
-Would you like help with a **step-by-step hands-on tutorial** on any of these topics? 🚀
+
